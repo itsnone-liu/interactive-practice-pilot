@@ -1,0 +1,18 @@
+# build & deps
+node_modules/
+dist/
+build/
+.vite/
+.svelte-kit/
+remotion/
+# artifacts & logs
+*.log
+runs/
+__pycache__/
+*.tmp
+# OS
+.DS_Store
+Thumbs.db
+# local secrets
+.env
+.env.*
